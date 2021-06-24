@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "214161143893",
+    "firebase_url": "https://ixat-3545c-default-rtdb.firebaseio.com",
+    "project_id": "ixat-3545c",
+    "storage_bucket": "ixat-3545c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214161143893:android:21b4f0eef005c616e73cdc",
+        "android_client_info": {
+          "package_name": "com.IXAT.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214161143893-hedaqi63rjuv38gjiu5hrmjophaj5hd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.IXAT.app",
+            "certificate_hash": "d9aa520c3bcc9b746f9f6b707213aa641e164e50"
+          }
+        },
+        {
+          "client_id": "214161143893-mphmsrv86batqkfr8qbgh1c4q9o1t5dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.IXAT.app",
+            "certificate_hash": "e9e945ad46b12cb121af634f19dc25195860ccf8"
+          }
+        },
+        {
+          "client_id": "214161143893-jejtjknkanenmrgi4btdiibkg4iddmsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZm7rG9-7zuXY6Cb-pGVBxHBB1ugejHRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214161143893-jejtjknkanenmrgi4btdiibkg4iddmsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
